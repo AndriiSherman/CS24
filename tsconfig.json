@@ -10,6 +10,6 @@
       "esModuleInterop": true,
       "module": "NodeNext"
     },
-    "include": ["src/*/"],
+    "include": ["src/*/", "docker-tests/*/"],
     "exclude": ["node_modules"]
   }
