@@ -1,0 +1,17 @@
+{
+  "name": "k6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/k6": "^1.0.2",
+    "hono": "^4.7.9",
+    "tsx": "^4.19.4"
+  }
+}
